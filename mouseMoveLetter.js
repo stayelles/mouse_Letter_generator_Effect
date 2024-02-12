@@ -53,4 +53,4 @@
         var text = "abcdefghijklmnopqrstuvwxyz1234567890".split("");
         letter = text[Math.floor(Math.random() * text.length)];
         return letter;
-      }
+      };
